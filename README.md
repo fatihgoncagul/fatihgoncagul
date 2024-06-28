@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fatih 👋</h1>
 <h3 align="center">I graduated from the Computer Engineering Department of Akdeniz University, and I am passionate about software development and constantly improving myself with Java and Spring. I am also interested in other technologies such as front-end, AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihgoncagul&label=Profile%20views&color=0e75b6&style=flat" alt="fatihgoncagul" /> </p>
+
 
 - 🔭 I’m currently working on **Earthquake Map**
 
