@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Earthquake Map**
+- 🔭 I’m currently working on **Online Ticket Sales Project**
 
-- 🌱 I’m currently learning **Apache Cassandra and Flink**
+- 🌱 I’m currently learning **Kafka, RabbitMQ and Redis**
 
 - 📫 How to reach me **fthgnc48@gmail.com**
 
